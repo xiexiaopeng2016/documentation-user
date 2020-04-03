@@ -9,6 +9,7 @@ Applications
    expense/expense
    crm
    sales
+   subscriptions
    website
    live_chat
    ecommerce
