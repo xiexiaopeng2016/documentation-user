@@ -31,6 +31,7 @@ Applications
    sms_marketing
    marketing_automation
    survey
+   studio
 
    general
 
